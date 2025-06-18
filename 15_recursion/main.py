@@ -7,5 +7,11 @@ def fib(n):
     else:
         return fib(n-1) + fib(n-2)
     
-
-print(fib(2))
+n = int(input("Enter a number: "))
+if n < 0:
+    print("Please enter a non-negative integer.")
+elif n > 30:
+    print("Please enter a number less than or equal to 30 to avoid long computation times.")
+else:
+    print(f"Fibonacci of {n} is: ")
+print(fib(n))

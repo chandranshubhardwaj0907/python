@@ -1,6 +1,7 @@
 # Dictionary: Used to store data in key-value pairs
 
 # Creating a dictionary called 'marks' with student names as keys and their marks as values
+
 marks = {"harry": 34, "jack": 45, "lily": 67}
 
 # Print the dictionary and its type (should show <class 'dict'>)

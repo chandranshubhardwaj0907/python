@@ -1,1 +1,0 @@
-print(sum(5, 3, 4))  # TypeError: sum() takes 2 positional arguments but 3 were given

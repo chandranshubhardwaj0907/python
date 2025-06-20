@@ -1,5 +1,1 @@
-
-# # Add a new public attribute dynamically
-# e.projects = 6
-
-# # Output the project count
+print(sum(5, 3, 4))  # TypeError: sum() takes 2 positional arguments but 3 were given

@@ -25,3 +25,25 @@ print(e.first_name())         # Output: Chandra
 e.set_first_name("Chandran")  # Correct way to change first name again
 print(e.first_name())         # Output: Chandran
 
+class Student:
+    def __init__(self, name, age):
+        self.name = name
+        self.__age = age
+
+    @property
+    def age(self):            # acts as getter
+        return self.__age
+
+    @age.setter
+    def age(self, value):     # acts as setter
+        if value > 0:
+            self.__age = value
+        else:
+            print("Invalid age!")
+
+student = Student("Chandranshu", 20)
+print(student.age)           # 20
+student.age = -10            # Invalid age!
+print(student.age)           # 20
+student.age = 21
+print(student.age)           # 21

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {% block title %}
+    {% endblock %}</title>
+        <style>
+            nav {
+            background-color: rgb(238, 141, 141);
+            color: white;
+            padding: 10px;
+        }
+        footer {
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        This is Navbar
+    </nav>
+    <main>
+        <h1>Welcome to the Home Page</h1>
+        <p>This is the main content of the page.</p>
+    </main>
+    {% block content %}
+        
+    {% endblock %}
+    <footer>
+        this is the footer section.
+    </footer>
+</body>
+</html>

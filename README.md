@@ -1,6 +1,6 @@
 # Python Practice Repository 🐍
 
-A personal collection of Python notebooks and scripts covering core concepts—from basic syntax to Flask applications. Ideal for learning, teaching, or refreshing Python skill.
+A personal collection of Python notebooks and scripts covering core concepts, from basic syntax to Flask applications. Ideal for learning, teaching, or refreshing Python skills.
 
 ---
 

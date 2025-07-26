@@ -30,7 +30,7 @@ The repository is organized into folders, each focusing on a different topic:
 22. **23_flask**, **24_flask2**, **25_flask _forms**, **26_jinja_templates**, **27_flask_template_innheritance** – Flask web app and template demos  
 23. **projects/** – Contains small project files and demos
 
----
+----
 
 ## 🚀 Getting Started
 

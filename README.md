@@ -2,7 +2,7 @@
 
 A personal collection of Python notebooks and scripts covering core concepts, from basic syntax to Flask applications.
 
-## 📂 Contents
+## 📂 Contents..
 
 The repository is organized into folders, each focusing on a different topic.
 

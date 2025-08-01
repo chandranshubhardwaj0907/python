@@ -16,7 +16,7 @@ The repository is organized into folders, each focusing on a different topic.
 8. **08_if_else** – Conditional statements  
 9. **09_match_case** – `match-case` flow control  
 10. **10_for_loop** / **11_while_loop** – Loop constructs  
-11. **12_break_continue_pass** – Loop controls  
+11. **12_break_continue_pass** – Loop controls  .
 12. **13_strings** – String operations  
 13. **14_functions** – Defining and calling functions  
 14. **15_recursion** – Recursive functions  

@@ -4,7 +4,7 @@ A personal collection of Python notebooks and scripts covering core concepts, fr
 
 ## 📂 Contents....
 
-The repository is organized into folders, each focusing on a different topic..
+The repository is organized into folders, each focusing on a different topic...
 
 1. **01_setup** – Initial environment & IDE setup  
 2. **02_python_syntax** – Python syntax overview  
